@@ -1,4 +1,4 @@
-# Mouse Mover - Teams Status Keeper
+# Mouse Mover - Messenger Status Keeper
 
 A simple C# console application that moves the mouse cursor periodically to keep your messengers aka Microsoft Teams status active (green).
 
